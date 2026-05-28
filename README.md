@@ -189,12 +189,12 @@ src="cdn.js"
 
 ---
 
-## Local Development
+## Local  Development
 
 To preview your content locally, run:
 
 ```bash
-hugo server
+hugo  server
 ```
 
 ---
