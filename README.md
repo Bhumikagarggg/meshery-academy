@@ -191,10 +191,10 @@ src="cdn.js"
 
 ## Local Development
 
-To preview your content locally, run:
+To preview your  content locally, run:
 
 ```bash
-hugo server
+hugo  server
 ```
 
 ---
