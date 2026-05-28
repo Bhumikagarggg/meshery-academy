@@ -204,7 +204,7 @@ hugo server
 Once your learning path content is ready and tested locally, open a pull request in this repository.
 
 A maintainer will review and merge your changes.
-The Meshery team will then integrate the content into the central [Academy build](https://github.com/layer5io/academy-build) so it appears on the public Academy site.
+The Meshery team will then integrate  the content into the central [Academy build](https://github.com/layer5io/academy-build) so it appears on the public Academy  site.
 
 ---
 
