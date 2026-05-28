@@ -212,9 +212,9 @@ The Meshery team will then integrate the content into the central [Academy build
 
 We welcome contributions to improve:
 
-- Content accuracy and clarity
-- Additional learning paths, challenges, or certifications
-- Shortcodes, layouts, and formatting
+- Content  accuracy and clarity
+- Additional  learning paths, challenges, or certifications
+- Shortcodes,  layouts, and formatting
 
  1. See [CONTRIBUTING.md](https://github.com/meshery-extensions/meshery-academy/blob/master/CONTRIBUTING.md) for details on branching, committing, and opening PRs.  
  2. Please review our [CODE_OF_CONDUCT.md](https://github.com/meshery-extensions/meshery-academy/blob/master/CODE_OF_CONDUCT.md) and [SECURITY.md](https://github.com/meshery-extensions/meshery-academy/blob/master/SECURITY.md) before contributing.
