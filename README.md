@@ -185,7 +185,7 @@ src="cdn.js"
 - Replace `id` with the unique identifier for your design.
 - Replace `src` with the path to your JS asset responsible for rendering.
 
-> Always use these shortcodes for images, videos, and embedded designs. This keeps assets portable, ensures they resolve correctly for each organization, and integrates properly with the Academy platform’s build and deployment flow.
+> Always use these shortcodes for  images, videos, and embedded designs. This keeps assets portable, ensures they resolve correctly for each organization,  and integrates properly with the Academy platform’s build and deployment flow.
 
 ---
 
