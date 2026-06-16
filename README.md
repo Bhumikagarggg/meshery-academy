@@ -50,17 +50,20 @@ Academies are modular, Git-native learning management systems (LMS), which can b
 - [Go](https://go.dev/dl/) ≥ 1.26
 - [Hugo Extended](https://gohugo.io/getting-started/installing/) ≥ 0.158 (required for `hugo.Sites` in offline search index; CI uses 0.158)
 
-2. **Fetch and tidy dependencies**
+2. **Fetch dependencies and install local Hugo**
 
 ```bash
-   go mod tidy
-   ```
+go mod tidy
+make setup
+```
 
 3. **Run the local Hugo server**
 
 ```bash
-   hugo server
-   ```
+make site
+```
+
+*(This uses the locally installed `hugo-extended` version to prevent version conflicts).*
 
 The local preview uses the academy-theme or any styling updates that you have made. When paired with a Remote Provider, academy content might be presented differently.
 
